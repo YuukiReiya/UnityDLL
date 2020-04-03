@@ -1,3 +1,8 @@
+<利用方法>
+作成したDLLを
+Assets/Pluginsフォルダ以下に入れる
+
+
 参考URL:https://qiita.com/r-ngtm/items/50afdb29c671001bb290
 
 UnityEngine.dll参照パス
