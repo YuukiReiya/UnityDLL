@@ -62,4 +62,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(OutDir)MyUnityDLL.dll" "C:\Users\yuuki\Documents\Develop\Arbeit\My Game\Assets\Plugins\" /Y</PostBuildEvent>
+  </PropertyGroup>
 </Project>
