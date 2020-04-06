@@ -1,3 +1,3 @@
-.dll‚ğo—ÍE’uŠ·‚·‚éêŠ‚Ü‚Å‚Ìƒtƒ‹ƒpƒX(Unity‚È‚ç"Assets\Plugins"‚ğw’è)
-¦(––”ö‚É"\"•s—v)«
-C:\Users\yuuki\Documents\Develop\Unityƒ}ƒl[ƒWƒhƒ‰ƒCƒuƒ‰ƒŠ§ì\Plugins
+.dllã‚’å‡ºåŠ›ãƒ»ç½®æ›ã™ã‚‹å ´æ‰€ã¾ã§ã®ãƒ•ãƒ«ãƒ‘ã‚¹(Unityãªã‚‰"Assets\Plugins"ã‚’æŒ‡å®š)
+â€»(æœ«å°¾ã«"\"ä¸è¦)â†“
+C:\Users\%USERNAME%\Documents\Develop\Unityãƒãƒãƒ¼ã‚¸ãƒ‰ãƒ©ã‚¤ãƒ–ãƒ©ãƒªåˆ¶ä½œ\Plugins
