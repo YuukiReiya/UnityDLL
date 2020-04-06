@@ -63,6 +63,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy "$(OutDir)MyUnityDLL.dll" "C:\Users\yuuki\Documents\Develop\Arbeit\My Game\Assets\Plugins\" /Y</PostBuildEvent>
+    <PostBuildEvent>call $(SolutionDir)\BuildEvent.bat $(SolutionDir) $(OutDir)</PostBuildEvent>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,3 @@
+.dllを出力・置換する場所までのフルパス(Unityなら"Assets\Plugins"を指定)
+※(末尾に"\"不要)↓
+C:\Users\yuuki\Documents\Develop\Unityマネージドライブラリ制作\Plugins
